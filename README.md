@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Ernő Németh
 
-<!--
-**ernonemeth90/ernonemeth90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring **Cybersecurity & AI Specialist**
+🎓 Currently: Computer Engineering (BSc) + Cybersecurity Specialist program @ Óbuda University
+🔐 Focus: Cybersecurity • Cloud Security • AI Security
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Current Projects
+- 🛡️ **TryHackMe Labs** – CTF write-ups & vulnerability analysis (in progress)
+- 🖥️ **Python Security Tools** – Simple port scanner & log analyzer
+- 🤖 **AI x Security** – Phishing email detection (notebook, baseline model)
+
+---
+
+## 📚 Learning Journey
+- IBM Cybersecurity Analyst (Coursera)
+- Andrew Ng – AI for Everyone (DeepLearning.AI)
+- Hands-on labs on TryHackMe
+
+---
+
+## 🗂️ Roadmap (next)
+- Publish `python-port-scanner` repo with usage guide
+- Start `tryhackme-writeups` markdown collection
+- Draft `phishing-email-detector` Jupyter notebook
+
+---
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/erno-nemeth-3b3307219
+- Email: erno.nemeth901011@gmail.com
+
+> ⭐️ I document my journey openly—feedback and collaboration are welcome.

@@ -32,3 +32,7 @@
 - Email: erno.nemeth901011@gmail.com
 
 > ⭐️ I document my journey openly—feedback and collaboration are welcome.
+
+## TryHackMe Progress
+- [Defensive Security Intro](tryhackme/defensive_security_intro.md) ✅
+- [Linux Fundamentals Part 1](tryhackme/linux_fundamentals_1.md) ✅
